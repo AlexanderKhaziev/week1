@@ -1,0 +1,8 @@
+{
+  "headers": {
+    "/*": {
+      "X-Author": "alex_khaziev",
+      "Access-Control-Allow-Origin": "*"
+    }
+  }
+}
